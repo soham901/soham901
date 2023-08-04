@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Soham! 👋
 
 I'm a passionate full-stack web developer and freelancer, currently pursuing a diploma in Computer Science and Engineering. I love building projects using Next.js, Django, and React, and I'm always eager to learn new technologies.
 
