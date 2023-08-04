@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**soham901/soham901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack web developer and freelancer, currently pursuing a diploma in Computer Science and Engineering. I love building projects using Next.js, Django, and React, and I'm always eager to learn new technologies.
 
-Here are some ideas to get you started:
+## 🚀 My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: Next.js, React.js
+- Backend: Django, Next.js
+- Database: Reddis, Mongodb, SQLite
+- Other: Git, RESTful APIs
+
+## 🌱 Currently Learning
+
+- Advanced Next.js patterns and best practices
+- Python data science libraries
+
+## 💼 Portfolio
+
+Check out some of my projects in my [Portfolio](https://soham901-portfolio.vercel.app/).
+
+## 📫 Let's Connect
+
+- LinkedIn: [Soham Sagathiya](https://www.linkedin.com/in/soham-sagathiya-898b6a254/)
+- Email: [sagathiyasoham12345@gmail.com](mailto:sagathiyasoham12345@gmail.com)
+
+Let's collaborate and build amazing web experiences together! 😊
