@@ -5,7 +5,7 @@ I'm a passionate full-stack web developer and freelancer, currently pursuing a d
 ## 🚀 My Skills
 
 - Frontend: Next.js, React.js
-- Backend: Django, Node.js
+- Backend: Node.js, Express.js, Django
 - Database: Reddis, Mongodb, SQLite
 - Other: Git, RESTful APIs
 
