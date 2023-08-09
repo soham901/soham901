@@ -18,8 +18,8 @@
 # 📊 GitHub Stats:
 <div align="center">
   <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=soham901&theme=gruvbox)](https://git.io/streak-stats)
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham901&theme=gruvbox&hide_border=false" /> -->
+<!--   [![GitHub Streak](https://streak-stats.demolab.com?user=soham901&theme=gruvbox)](https://git.io/streak-stats) -->
+<img src="https://streak-stats.demolab.com?user=soham901&theme=gruvbox" />
   <br/>
 </div>
 <br/>
