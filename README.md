@@ -19,8 +19,11 @@
 # 📊 GitHub Stats:
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=soham901&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham901&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 <br/>
+
+
 
 ---
 
