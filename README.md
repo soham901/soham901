@@ -23,8 +23,6 @@
 </div>
 <br/>
 
-
-
 ---
 
 <p align="center">Thanks for vising my github profile!</p>
