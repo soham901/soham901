@@ -1,4 +1,4 @@
-# Hi there, I'm Soham! 👋
+# Hello, I'm Soham!
 
 - Ambitious computer science and engineering student with a passion for building projects using Next.js, FastAPI, and Django. Always eager to learn new technologies.
 
@@ -20,12 +20,12 @@
 <br />
 
 # 💻 Tech Stack:
-- Front-end development: HTML, CSS, JavaScript, TypeScript, React.js, Next.js
-- Back-end development: Python, Django, DjangoREST, FastAPI, Express.js, Socket.io
+- Front-end development: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
+- Back-end development: Python, Django, DjangoREST, FastAPI, Express.js, Nodejs, Bun, Socket.io
 - Databases: PostgreSQL, MongoDB, Redis, SQLite
-- Cloud computing: Vercel, Render, Ngnix
+- Devops: Vercel, Render, Ngnix
 - UI/UX design: Figma, Inkscape
-- IDEs: VS Code, Pycharm
+- IDEs: VS Code, Pycharm, Nvim
 
 <br />
 
