@@ -9,7 +9,7 @@
 - 🌱 **I’m currently learning Data Science using python.**
 - 💬 **Ask me about Web Development, Python Development.**
 - 📫 **How to reach me [gmail](mailto:soham.saga@gmail.com).**
-- 👨‍💻 **All of my projects are available at [portfolio](soham901.me).**
+- 👨‍💻 **All of my projects are available at [portfolio](https://soham901.me).**
 
 <br />
 
