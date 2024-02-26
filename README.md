@@ -1,6 +1,6 @@
 # Hello, I'm Soham!
 
-- Ambitious computer science and engineering student with a passion for building projects using Next.js, FastAPI, and Django. Always eager to learn new technologies.
+- Ambitious computer science and engineering student with a passion for building projects using Next.js, FastAPI, Django and MERN stack. Always eager to learn new technologies.
 
 <br />
 
@@ -8,8 +8,8 @@
 - 🔭 **I’m currently working on FastAPI & Next.js.**
 - 🌱 **I’m currently learning Data Science using python.**
 - 💬 **Ask me about Web Development, Python Development.**
-- 📫 **How to reach me [gmail](mailto:soham90166@gmail.com).**
-- 👨‍💻 **All of my projects are available at [portfolio](soham901-portfolio.vercel.app).**
+- 📫 **How to reach me [gmail](mailto:soham.saga@gmail.com).**
+- 👨‍💻 **All of my projects are available at [portfolio](soham901.me).**
 
 <br />
 
