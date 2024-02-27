@@ -23,7 +23,8 @@
 - Front-end development: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
 - Back-end development: Python, Django, DjangoREST, FastAPI, Express.js, Nodejs, Bun, Socket.io
 - Databases: PostgreSQL, MongoDB, Redis, SQLite
-- Devops: Vercel, Render, Ngnix
+- Devops: Docker, Ngnix
+- Hosting platforms: Vercel, Render
 - UI/UX design: Figma, Inkscape
 - IDEs: VS Code, Pycharm, Nvim
 
