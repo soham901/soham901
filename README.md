@@ -8,7 +8,7 @@
 - 🔭 **I’m currently working on FastAPI & Next.js.**
 - 🌱 **I’m currently learning Full Stack Development and System Design.**
 - 💬 **Ask me about Web Development, Python Development.**
-- 📫 **How to reach me [gmail](mailto:soham.saga@gmail.com).**
+- 📫 **How to reach me [twitter](https://twitter.com/soham901x) or [gmail](mailto:soham.saga@gmail.com).**
 - 👨‍💻 **All of my projects are available at [portfolio](https://soham901.me).**
 
 <br />
