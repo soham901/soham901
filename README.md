@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 - 🔭 **I’m currently working on FastAPI & Next.js.**
-- 🌱 **I’m currently learning Data Science using python.**
+- 🌱 **I’m currently learning Full Stack Development and System Design.**
 - 💬 **Ask me about Web Development, Python Development.**
 - 📫 **How to reach me [gmail](mailto:soham.saga@gmail.com).**
 - 👨‍💻 **All of my projects are available at [portfolio](https://soham901.me).**
@@ -20,11 +20,11 @@
 <br />
 
 # 💻 Tech Stack:
-- Front-end development: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS
-- Back-end development: Python, Django, DjangoREST, FastAPI, Express.js, Nodejs, Bun, Socket.io
+- Front-end development: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui
+- Back-end development: Python, Django, FastAPI, Express.js, Nodejs, Bun, Socket.io
 - Databases: PostgreSQL, MongoDB, Redis, SQLite
-- Devops: Docker, Ngnix
-- Hosting platforms: Vercel, Render
+- Devops: Linux, Docker, Ngnix, PM2
+- Hosting platforms: Vercel, Render, Netlify
 - UI/UX design: Figma, Inkscape
 - IDEs: VS Code, Pycharm, Nvim
 
