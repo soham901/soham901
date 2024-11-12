@@ -41,12 +41,12 @@
   </tr>
 </table>
 
-<details open>
-  <summary>📊 GitHub Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=soham901&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham901&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </p>
+<details>
+ <summary>📊 GitHub Stats</summary>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=soham901&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham901&layout=compact&theme=dark&langs_count=8" />|
+| ------------- | ------------- |
+  
 </details>
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
