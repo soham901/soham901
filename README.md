@@ -36,7 +36,7 @@
 </div>
 
 <details>
-<summary><h2>📊 GitHub Stats</h2></summary>
+<summary><h2>📊 Stats</h2></summary>
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soham901&theme=dark&card_width=500)](https://git.io/streak-stats)
