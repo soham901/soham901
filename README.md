@@ -19,7 +19,7 @@
 ## Current Focus 🚀
 
 - Open for remote internships, contracts, and freelance projects
-- 2+ years of freelancing experience building web applications and digital solutions
+- 3+ years of freelancing experience building web applications and digital solutions
 
 ## Tech Stack 🛠️
 
