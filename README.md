@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
     </a>
     <a href="https://www.youtube.com/@soham-901" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Portfolio">
+      <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="Portfolio">
     </a>
   </p>
 </div>
